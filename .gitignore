@@ -19,4 +19,5 @@
 .byebug_history
 /config/puma.rb
 .env
-/config/secrets.rb
+/config/secrets.yml
+/config/database.yml
