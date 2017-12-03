@@ -1,0 +1,23 @@
+=== puma startup: 2017-12-03 01:57:11 +0000 ===
+[9275] * Starting control server on unix:///tmp/puma-status-1512266231450-9275
+[9275] - Worker 0 (pid: 9315) booted, phase: 0
+[9275] - Gracefully shutting down workers...
+=== puma startup: 2017-12-03 02:13:54 +0000 ===
+[10089] * Starting control server on unix:///tmp/puma-status-1512267234057-10089
+[10089] - Worker 0 (pid: 10129) booted, phase: 0
+[10089] - Gracefully shutting down workers...
+=== puma startup: 2017-12-03 02:19:32 +0000 ===
+[10367] * Starting control server on unix:///tmp/puma-status-1512267572626-10367
+[10367] - Worker 0 (pid: 10407) booted, phase: 0
+[10367] - Gracefully shutting down workers...
+=== puma startup: 2017-12-03 02:26:25 +0000 ===
+[10542] * Starting control server on unix:///tmp/puma-status-1512267985015-10542
+[10542] - Worker 0 (pid: 10582) booted, phase: 0
+[10542] - Gracefully shutting down workers...
+=== puma startup: 2017-12-03 02:35:13 +0000 ===
+[10663] * Starting control server on unix:///tmp/puma-status-1512268513776-10663
+[10663] - Worker 0 (pid: 10703) booted, phase: 0
+[10663] - Gracefully shutting down workers...
+=== puma startup: 2017-12-03 02:40:49 +0000 ===
+[10889] * Starting control server on unix:///tmp/puma-status-1512268849171-10889
+[10889] - Worker 0 (pid: 10929) booted, phase: 0
